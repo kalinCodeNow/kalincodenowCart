@@ -1,9 +1,9 @@
 export const db = [
   {
     id: 1,
-    marca: "New York",
+    marca: "Developer",
     name: "Juan Felipe",
-    descripcion: "USA",
+    descripcion: "«El futuro pertenece a aquellos que creen en el poder de la tecnología.»",
     precio: 30,
     imagen:
       "https://th.bing.com/th/id/OIP.Dr65TAxTa6mft8DXJmBezAHaHa?w=1024&h=1024&rs=1&pid=ImgDetMain",
