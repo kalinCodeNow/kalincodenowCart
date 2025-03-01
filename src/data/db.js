@@ -10,12 +10,12 @@ export const db = [
   },
   {
     id: 2,
-    marca: "New York",
-    name: "Senaida Cardona",
-    descripcion: "USA",
-    precio: 30,
+    marca: "Sony",
+    name: "PlayStation 5",
+    descripcion: "diseño Slim, 1 TB de almacenamiento, SSD de ultra alta velocidad y 16 GB de memoria RAM.",
+    precio: 505,71,
     imagen:
-      "https://th.bing.com/th/id/OIP.uzTY1JPxxveM-ZjGHjI7uwAAAA?rs=1&pid=ImgDetMain",
+      "https://as01.epimg.net/meristation/imagenes/2020/11/06/reportajes/1604654372_894608_1604656126_noticia_normal.jpg",
   },
   {
     id: 3,
