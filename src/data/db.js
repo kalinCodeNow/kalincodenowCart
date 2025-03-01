@@ -6,7 +6,7 @@ export const db = [
     descripcion: "USA",
     precio: 30,
     imagen:
-      "https://th.bing.com/th/id/OIP.uzTY1JPxxveM-ZjGHjI7uwAAAA?rs=1&pid=ImgDetMain",
+      "https://th.bing.com/th/id/OIP.Dr65TAxTa6mft8DXJmBezAHaHa?w=1024&h=1024&rs=1&pid=ImgDetMain",
   },
   {
     id: 2,
