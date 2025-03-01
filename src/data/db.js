@@ -13,7 +13,7 @@ export const db = [
     marca: "Sony",
     name: "PlayStation 5",
     descripcion: "diseño Slim, 1 TB de almacenamiento, SSD de ultra alta velocidad y 16 GB de memoria RAM.",
-    precio: 505,71,
+    precio: 505.71,
     imagen:
       "https://as01.epimg.net/meristation/imagenes/2020/11/06/reportajes/1604654372_894608_1604656126_noticia_normal.jpg",
   },
